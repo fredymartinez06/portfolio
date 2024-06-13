@@ -1,0 +1,56 @@
+body{
+    margin:0;
+    width:100%;
+}
+
+
+#navigation-bar{
+    background-color:red;
+    margin:0;
+    width:100vw;
+}
+.profile-picture {
+    width: 150px; 
+    height: auto; 
+  }
+
+.profile-picture {
+    margin-right: auto; /* Align the profile picture to the left */
+    margin-left: 100; /* Reset the left margin */
+  }
+/* style.css */
+
+/* Custom CSS for taco image */
+.taco-image {
+    width: 400px !important; /* Adjust width as needed */
+    height: auto; /* Automatically adjust height while maintaining aspect ratio */
+  }
+  
+  /* Custom CSS for menu image */
+  .menu-image {
+    width: 400px !important; /* Adjust width as needed */
+    height: auto; /* Automatically adjust height while maintaining aspect ratio */
+  }
+  
+  /* Custom CSS for sombrero image */
+  .sombrero-image {
+    width: 400px !important; /* Adjust width as needed */
+    height: auto; /* Automatically adjust height while maintaining aspect ratio */
+  }
+/* Style the link */
+.custom-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect */
+.custom-link:hover {
+    background-color: #0056b3;
+}
+  
+  
